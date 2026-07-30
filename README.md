@@ -1,69 +1,63 @@
-```markdown
 <h1 align="center">Nicolas Vieira Maria</h1>
 
 <p align="center">
-  Full Stack Developer • PHP • React • MySQL
+  <strong>Software Developer • PHP • React • MySQL</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:nicolasvmaria1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nicolas-vieira-maria">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nicolas-vmaria">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+  Software Development Student at SENAI/SC
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Software Development student at **SENAI/SC**, focused on building web applications using **PHP**, **React** and **MySQL**.
+Software Development student at **SENAI/SC** with a strong interest in back-end development, software architecture and building modern web applications.
 
-I enjoy developing complete software solutions, from database modeling to front-end implementation, always seeking to improve code quality, software architecture and development best practices.
+Currently focused on developing Full Stack applications using **PHP**, **React** and **MySQL**, while continuously improving my knowledge of modern software development practices.
 
-Currently looking for an **Internship in Software Development**.
+- 💻 Main stack: **PHP, React and MySQL**
+- 🐳 Experience with **Docker**, **JWT**, **GitHub Actions** and **Railway**
+- 📚 Currently studying **Software Architecture**, **REST APIs** and **Clean Code**
+- 🎯 Looking for a **Software Development Internship**
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,python" />
+  <img src="https://skillicons.dev/icons?i=php,js,python&theme=dark" />
 </p>
 
 ### Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## Featured Project
+## 🚀 Featured Projects
 
-### SmartCart
+### 🛒 SmartCart
 
-Full Stack management system and e-commerce platform developed as a team project.
+A Full Stack management system and e-commerce platform developed as a team project during the Software Development Technician program at SENAI.
 
-**Stack**
+### Tech Stack
 
 - PHP
 - React
@@ -73,39 +67,19 @@ Full Stack management system and e-commerce platform developed as a team project
 - GitHub Actions
 - Railway
 
-### Main Features
+### My Contributions
 
-- User authentication with JWT
-- Product management
-- User management
-- Inventory management
-- Responsive interface
-- Docker containerization
-- Automated deployment with GitHub Actions and Railway
-
-🔗 **Repository**
-
-https://github.com/nicolas-vmaria/SmartCart
+- Developed back-end features using PHP
+- Built front-end components with React
+- Implemented JWT authentication
+- Integrated the application with MySQL
+- Containerized the application using Docker
+- Configured automated deployment with GitHub Actions and Railway
+- Collaborated throughout all stages of development using Git and GitHub
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=nicolas-vmaria&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-vmaria&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
-## Currently Learning
+## 📚 Currently Learning
 
 - Software Architecture
 - REST APIs
@@ -116,9 +90,22 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-vmar
 
 ---
 
-## Contact
+## 🎯 Interests
 
-- 📧 nicolasvmaria1@gmail.com
-- 💼 linkedin.com/in/nicolas-vieira-maria
-- 💻 github.com/nicolas-vmaria
-```
+- Back-end Development
+- Software Architecture
+- REST APIs
+- Database Design
+- Clean Code
+- DevOps
+- Full Stack Development
+
+---
+
+## 📫 Contact
+
+**Email**  
+nicolasvmaria1@gmail.com
+
+**LinkedIn**  
+www.linkedin.com/in/nicolas-vieira-maria
